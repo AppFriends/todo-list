@@ -115,7 +115,7 @@ Temporary Items
 
 
 ### Bower ###
-bower_components
+src/lib
 .bower-cache
 .bower-registry
 .bower-tmp

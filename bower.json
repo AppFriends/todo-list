@@ -1,0 +1,21 @@
+{
+  "name": "todo-list",
+  "description": "",
+  "main": "src/index.html",
+  "authors": [
+    "dacferreira <diogoa42@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AppFriends/todo-list",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
